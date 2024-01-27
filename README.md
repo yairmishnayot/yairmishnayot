@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing on platforms such as [![Medium Badge](https://img.shields.io/badge/medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@yairwebdev).
 
-- :zap: In my free time I read tech articles.
+- :zap: In my free time I read tech articles, and working on web development project for a non-profit
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yair_Mishnayot-blue?style=flat&logo=Medium&logoColor=white)](https://www.linkedin.com/in/yair-mishnayot/)
 
