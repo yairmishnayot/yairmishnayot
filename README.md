@@ -62,9 +62,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Latest Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Do these three things when adding a new member to your team](https://medium.com/@yairwebdev/do-these-three-things-when-adding-a-new-member-to-your-team-b5e559e62bfc?source=rss-5e3358ca1087------2)
-- [How to learn things fast without going crazy](https://medium.com/@yairwebdev/how-to-learn-things-fast-without-going-crazy-8777e05cedff?source=rss-5e3358ca1087------2)
-<!-- BLOG-POST-LIST:END -->
-
