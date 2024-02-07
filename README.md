@@ -23,13 +23,16 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+Hello! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Israel, specializing in crafting dynamic and robust web applications. With a keen interest in both the frontend and backend aspects of development, I bring to the table a comprehensive skill set that allows me to tackle complex challenges in the digital realm.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :telescope: Professional Path:
+Currently, I'm employed as a Software Engineer, where I contribute my expertise to both the frontend and backend development phases. My role involves collaborating closely with teams to create scalable, efficient web applications that meet our users' needs.
 
-- :seedling: Exploring Technical Content Writing on platforms such as [![Medium Badge](https://img.shields.io/badge/medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@yairwebdev).
+### :seedling: Continuous Learning and Sharing:
+I'm deeply invested in expanding my knowledge and skills, particularly in the area of Technical Content Writing. I actively share my insights and learnings on platforms like [Medium](https://medium.com/@yairwebdev), aiming to engage with the tech community and exchange ideas. Keep an eye out for my articles, where I delve into the latest trends, techniques, and technologies in web development.
 
-- :zap: In my free time I read tech articles, and working on web development project for a non-profit
+### :zap: Passion Projects:
+In my free time, I'm committed to leveraging my skills for social good. I'm currently working on a web development project for a non-profit organization, aiming to make a tangible difference through technology. These projects not only fuel my passion for coding but also allow me to give back to the community in meaningful ways.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yair_Mishnayot-blue?style=flat&logo=Medium&logoColor=white)](https://www.linkedin.com/in/yair-mishnayot/)
 
