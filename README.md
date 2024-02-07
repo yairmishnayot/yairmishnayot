@@ -34,7 +34,8 @@ I'm deeply invested in expanding my knowledge and skills, particularly in the ar
 ### :zap: Passion Projects:
 In my free time, I'm committed to leveraging my skills for social good. I'm currently working on a web development project for a non-profit organization, aiming to make a tangible difference through technology. These projects not only fuel my passion for coding but also allow me to give back to the community in meaningful ways.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yair_Mishnayot-blue?style=flat&logo=Medium&logoColor=white)](https://www.linkedin.com/in/yair-mishnayot/)
+### :mailbox: How to reach me:
+Interested in discussing tech, collaboration opportunities, or just want to say hi? Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/yair-mishnayot/). I'm always open to making new professional connections and exploring potential projects together.
 
 ---
 
